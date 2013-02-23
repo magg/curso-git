@@ -1,0 +1,3 @@
+git = herramienta de control de código fuente
+commit = para guardar cambios
+add = comando para agregar archivos
